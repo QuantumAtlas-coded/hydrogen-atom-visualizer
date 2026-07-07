@@ -23,6 +23,19 @@ psi(n,l,m) = R_nl(r) x Y_lm(theta, phi)
 - Orbital probability densities (1s, 2s, 2p, 3s, 3p, 3d)
 - Radial probability distributions P(r) = r2 x R(r)2
 - Energy level diagram: En = -13.6 eV / n2
+- ## Plots Generated
+- Orbital probability densities (1s, 2s, 2p, 3s, 3p, 3d)
+- Radial probability distributions P(r)
+- Energy level diagram
+
+### Orbital Shapes
+![Orbitals](hydrogen_orbitals.png)
+
+### Radial Probability
+![Radial](hydrogen_radial.png)
+
+### Energy Levels
+![Energy](hydrogen_energy_levels.png)
 
 ## How to Run
 ```bash
