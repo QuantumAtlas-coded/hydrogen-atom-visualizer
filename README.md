@@ -5,6 +5,11 @@
 **Language:** Python (NumPy, SciPy, Matplotlib)
 
 ---
+## 🔵 Live Interactive Demo
+[View 3D Orbital Viewer →](https://QuantumAtlas-coded.github.io/hydrogen-atom-visualizer/hydrogen_interactive.html)
+
+## Simulation
+![Hydrogen Animation](hydrogen_animation.gif)
 
 ## What This Does
 Visualizes hydrogen atom electron probability clouds using 
